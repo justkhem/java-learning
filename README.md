@@ -10,7 +10,7 @@ Currently learning through **W3Schools** and **Codecademy**, and starting a Syst
 
 | Topic | Status |
 |-------|--------|
-| Variables & Data Types | ✅ Done |
+| Variables & Data Types | 🔄 In Progress |
 | Conditionals (if/else) | 🔜 Up next |
 | Loops | ⏳ Not started |
 | Methods | ⏳ Not started |
