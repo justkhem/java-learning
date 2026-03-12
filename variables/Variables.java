@@ -54,5 +54,23 @@ public class Variables {
         // Recalculating price per kg
         price = total / quantity;
         System.out.println("The apple was " + price + " per/kg.");
+
+        //Boolean & char
+        //Boolean is also a primitive data type, for stating if the statement is true or false
+        //Char for storing single character, should place inside ''
+
+        boolean isStudying = true;
+        boolean isNotStudying = false;
+
+        System.out.println("Khem is not studying. -> " + isNotStudying);
+        System.out.println("Khem is studying. ->" + isStudying);
+
+        //char
+
+        char myGrade = 'A';
+        System.out.println("My grade is " + myGrade + ".");
+
+
+    
     }
 }
