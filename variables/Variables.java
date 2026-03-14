@@ -68,7 +68,8 @@ public class Variables {
         //char
 
         char myGrade = 'A';
-        System.out.println("My grade is " + myGrade + ".");
+        float myPercentage = 83.23f;
+        System.out.println("My grade is " + myGrade + "My percentage is " + myPercentage +"%.");
 
 
     
