@@ -31,4 +31,6 @@ java-learning/
 
 ---
 
+## 🎯 Goal: Complete Java basics before April
+
 *Updated as I learn — small steps every day.* 🌱

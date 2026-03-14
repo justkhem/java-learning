@@ -72,6 +72,25 @@ public class Variables {
         System.out.println("My grade is " + myGrade + "My percentage is " + myPercentage +"%.");
 
 
+        //Java Type Casting
+
+        //Widening casting (Converting smaller size type to larger)
+
+        int myInt = 9;
+        double myDouble = myInt;
+
+        System.out.println(myDouble);
+
+        //Narrowing casting (Converting larger size type to smaller)
+
+        double myDoble = 9.79d;
+        int myInT = (int) myDoble;
+
+        System.out.println(myInT);
+
+
+
+
     
     }
 }

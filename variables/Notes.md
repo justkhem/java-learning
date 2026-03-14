@@ -11,6 +11,12 @@
 - **char** - it sstores a single character e.g. 'A'
 - **float** - it also stores decimal (uses less memory & ends with the letter 'f' e.g. 22.23f)
 
+## Java type casting
+
+- It is the process of changing one variable type to another.
+# Widening Casting (Converting smaller size type to larger size type. Automatic)
+# Narrowing Casting (Converting larger type to smaller. Manual)
+
 ## Things to remember:
 - Always end statements with ;
 - String uses double quotes ""
