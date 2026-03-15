@@ -90,6 +90,16 @@ public class Variables {
 
 
 
+        // Compound Assignment Operators
+        // Used for adjustng the values
+
+        int score = 5;
+        score += 6; //Addition (Has all arthemetic operators. -> check notes.md)
+
+        System.out.println(score);
+
+
+
 
     
     }

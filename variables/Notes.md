@@ -17,6 +17,14 @@
 # Widening Casting (Converting smaller size type to larger size type. Automatic)
 # Narrowing Casting (Converting larger type to smaller. Manual)
 
+## Compount Assignment Operators
+
+- it's a short way to update a variable.
+- Instead of: score = score + 5
+- Just write:  score += 5
+
+- Operators: += (Addition) -=(Subtraction) *=(Multiplication) /=(Division) %=(Modulo)
+
 ## Things to remember:
 - Always end statements with ;
 - String uses double quotes ""
