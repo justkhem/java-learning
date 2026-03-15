@@ -99,6 +99,20 @@ public class Variables {
         System.out.println(score);
 
 
+        // Order of Operations: PEMDAS
+        // 1. Parenthess
+        // 2. Exponents
+        // Modulo / Multiplication / Division (left to right)
+        // 4. Addition / Subtraction (left to right)
+
+        int num = 12 / (10 - 4) + 4 * 2;
+        // Step 1: (10 - 4) = 6
+        // Step 2: 12 / 6 = 2
+        // Step 3: 4 * 2 = 8
+        // Step 4: 2 + 8 = 10
+        System.out.println(num); // 10
+
+
 
 
     

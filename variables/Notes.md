@@ -30,3 +30,12 @@
 - String uses double quotes ""
 - char uses single quotes ''
 - You can't redeclare a variable with its type
+
+## Order of Operations
+Java solves expressions in this order (PEMDAS):
+1. Parentheses ()
+2. Exponents
+3. Modulo / Multiplication / Division → left to right
+4. Addition / Subtraction → left to right
+
+Example: 12 / (10 - 4) + 4 * 2 = 10
