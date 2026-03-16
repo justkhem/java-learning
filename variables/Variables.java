@@ -129,6 +129,19 @@ public class Variables {
         
         boolean sameNumberOfVehicles = numberOfCars == numberOfBus;
         boolean differenceInNumbers = numberOfCars != numberOfBus;
+        System.out.println(sameNumberOfVehicles); //false
+        System.out.println(differenceInNumbers); //true
+
+        // Greater/Less Than or Equal To
+        // Checking whether one variable's value is greater/less than, or equals to that of another
+
+        double mySalary = 28 * 1200; // My actual salary
+        double myExpectedSalary = 100000; // Expected salary for this month
+
+        boolean thisMonthPay = myExpectedSalary >= mySalary; // Whether true or false
+
+        System.out.println(thisMonthPay); //true
+
 
 
 

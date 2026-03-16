@@ -46,3 +46,9 @@ Example: 12 / (10 - 4) + 4 * 2 = 10
 - for checking whether the variables are same, we use ==
 - for checking whether the variables are not same, we use !=
 - Example: check Variables.java
+
+## Greater/Less Than or Equal To
+
+- Used to check whether a value of one variable is Greater/Less Than or Equal To    that of another
+- Greater Than or Equal To >=
+- Less Than or Equal To <=
