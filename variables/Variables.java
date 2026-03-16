@@ -112,6 +112,27 @@ public class Variables {
         // Step 4: 2 + 8 = 10
         System.out.println(num); // 10
 
+        // Greater Than and Less Than
+        int a = 10;
+        int b = 5;
+
+        System.out.println(a > b);  // true  (10 is greater than 5)
+        System.out.println(a < b);  // false (10 is not less than 5)
+        System.out.println(a >= 10); // true  (10 is equal to 10)
+        System.out.println(a <= 4);  // false (10 is not less than or equal to 4)
+
+
+        // Equals and Not Equals
+        // for checking whether the value of the variables are smae or different
+        int numberOfCars = 13;
+        int numberOfBus = 12;
+        
+        boolean sameNumberOfVehicles = numberOfCars == numberOfBus;
+        boolean differenceInNumbers = numberOfCars != numberOfBus;
+
+
+
+
 
 
 

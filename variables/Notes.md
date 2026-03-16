@@ -39,3 +39,10 @@ Java solves expressions in this order (PEMDAS):
 4. Addition / Subtraction → left to right
 
 Example: 12 / (10 - 4) + 4 * 2 = 10
+
+## Equals and Not Equals
+## it is used for checking whether the two variables are same or not
+
+- for checking whether the variables are same, we use ==
+- for checking whether the variables are not same, we use !=
+- Example: check Variables.java
