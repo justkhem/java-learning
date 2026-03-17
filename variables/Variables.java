@@ -163,6 +163,18 @@ public class Variables {
         String myName = "Khem";
         System.out.println("Hello " + myName); //prints Hello Khem
 
+        // final keyword
+        // giving specific/constant value to a varibale, that's unchangeable
+
+        final double VALUE_OF_PI = 3.14;
+        //Java won't give you an error if you write: valueOfPie
+
+        System.out.println(VALUE_OF_PI);
+
+
+
+
+
 
 
 

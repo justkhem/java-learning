@@ -62,3 +62,11 @@ Example: 12 / (10 - 4) + 4 * 2 = 10
 ## String Concatenation
 - Joining strings and variables together using the + operator
 to form one complete sentence or message.
+
+## final keyword
+- ## Final Keyword
+Used to make a variable unchangeable (constant).
+Once set, the value can never be updated.
+By convention, final variables are written in CAPS.
+
+Example: check Variables.java
