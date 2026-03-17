@@ -52,3 +52,13 @@ Example: 12 / (10 - 4) + 4 * 2 = 10
 - Used to check whether a value of one variable is Greater/Less Than or Equal To    that of another
 - Greater Than or Equal To >=
 - Less Than or Equal To <=
+
+## .equals()
+
+- Used to check whether the date stored in a variable is equal to the other one
+- mostly for #String
+- System.out.println(variableX.equals(variableY));
+
+## String Concatenation
+- Joining strings and variables together using the + operator
+to form one complete sentence or message.

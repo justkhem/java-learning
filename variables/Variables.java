@@ -142,6 +142,26 @@ public class Variables {
 
         System.out.println(thisMonthPay); //true
 
+        // .equals()
+        // use for checking whether a date stored in the variable is equal, for String
+
+        // Suppose in a website 3 people entered their name and now we wanna check if two variables has the same name
+
+        String person1 = "David";
+        String person2 = "Alex";
+        String person3 = "David";
+
+        System.out.println(person1.equals(person2)); //false
+        System.out.println(person1.equals(person3)); //true
+
+        // String Concatenation
+        // Its is joining things together into a sentence.
+
+        //　Example: 
+        // My name is Khem and i wanna say "Hello Khem", so using String Concatenation we can do:
+
+        String myName = "Khem";
+        System.out.println("Hello " + myName); //prints Hello Khem
 
 
 
