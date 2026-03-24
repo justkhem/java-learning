@@ -32,3 +32,30 @@ Example: fido.breed // returns "poodle"
 ### null
 Default value of an object that has been declared but not built yet.
 Example: Dog fido; // fido is null until new Dog() is called
+
+## Methods
+A method is an action that an object can perform.
+Defined inside a class.
+
+### void method
+Does something but returns nothing.
+Example: checkBalance(), deposit()
+
+### return method
+Does something AND gives back a value.
+Example: withdraw() returns the amount withdrawn
+
+### Method syntax
+public void methodName() { }
+public int methodName(int parameter) { }
+
+### toString() method
+Special method that describes an object as a String.
+Automatically called when you print an object.
+Example: System.out.println(savings) calls toString()
+
+### Calling a method
+Use dot operator on the object.
+Example: savings.checkBalance();
+Example: savings.deposit(600);
+Example: savings.withdraw(300);
