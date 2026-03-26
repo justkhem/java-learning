@@ -10,11 +10,11 @@ Currently learning through **W3Schools** and **Codecademy**, and starting a Syst
 
 | Topic | Status |
 |-------|--------|
-| Variables & Data Types | 🔄 In Progress |
+| Variables & Data Types | ✅ Completed |
 | Conditionals (if/else) | 🔜 Up next |
 | Loops | ⏳ Not started |
-| Methods | ⏳ Not started |
-| Object-Oriented Programming | ⏳ Not started |
+| Methods | 🔄 In Progress |
+| Object-Oriented Programming | 🔄 In Progress |
 
 ---
 
